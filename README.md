@@ -1,1 +1,1 @@
-https://github.com/suelavrapi/html-website/blob/main/index.html
+https://suelavrapi.github.io/html-website/
